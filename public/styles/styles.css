@@ -1,0 +1,18 @@
+.rtl {
+    direction: rtl !important;
+}
+
+.page_title {
+    font-size: 2em;
+    font-weight: bold;
+    margin: 20px 0;
+    width: 100%;
+    text-align: right;
+    float: right;
+    clear: both;
+
+}
+
+.add_container {
+    display: none;
+}
